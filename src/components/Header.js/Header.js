@@ -2,8 +2,8 @@ import React from 'react'
 
 const Header = () => {
   return (
-    <div>
-        <div className="py-4  lg:py-4 lg:px-12 border-b border-gray-500/10 lg:border-0 dark:border-gray-300/10 mx-4 lg:mx-0" bis_skin_checked="1"><div className="relative  flex items-center" bis_skin_checked="1"><div className="flex-1 flex items-center space-x-4 " bis_skin_checked="1"> 
+    <div className=''>
+        <div className="py-4   lg:py-4 lg:px-12 border-b border-gray-500/10 lg:border-0 dark:border-gray-300/10 mx-4 lg:mx-0" bis_skin_checked="1"><div className="relative  flex items-center" bis_skin_checked="1"><div className="flex-1 flex items-center space-x-4 " bis_skin_checked="1"> 
     <a href="/"><span class="sr-only">Danswer Documentation  home page</span><img class="w-auto h-7 relative block dark:hidden" src="https://mintlify.s3-us-west-1.amazonaws.com/danswer/logo/light.png" alt="light logo" /><img class="w-auto h-7 relative hidden dark:block" src="https://mintlify.s3-us-west-1.amazonaws.com/danswer/logo/dark.png" alt="dark logo" /></a>
     </div>
         <div className="relative flex-none bg-white lg:w-64 xl:w-96 dark:bg-gray-900 pointer-events-auto rounded-md" bis_skin_checked="1">
