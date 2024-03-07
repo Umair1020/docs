@@ -7668,6 +7668,31 @@ input[type=checkbox] {
   -webkit-mask-repeat: no-repeat;
   -webkit-mask-position: center;
 }
+.sitemap{
+  -webkit-mask-image: url(/public/sitemap.svg);
+  -webkit-mask-repeat: no-repeat;
+  -webkit-mask-position: center;
+}
+.google{
+  -webkit-mask-image: url(/public/google.svg);
+  -webkit-mask-repeat: no-repeat;
+  -webkit-mask-position: center;
+}
+.microsoft{
+  -webkit-mask-image: url(/public/microsoft.svg);
+  -webkit-mask-repeat: no-repeat;
+  -webkit-mask-position: center;
+}
+.aws{
+  -webkit-mask-image: url(/public/aws.svg);
+  -webkit-mask-repeat: no-repeat;
+  -webkit-mask-position: center;
+}
+.comment{
+  -webkit-mask-image: url(/public/comments.svg);
+  -webkit-mask-repeat: no-repeat;
+  -webkit-mask-position: center;
+}
 .wrench{
   -webkit-mask-image: url(/public/wrench.svg);
   -webkit-mask-repeat: no-repeat;
